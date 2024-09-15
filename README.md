@@ -1,5 +1,17 @@
-## Hi there 👋
+## Hendrik Rommeswinkel
+Academic Github account
 
+### Projects
+- Research papers
+- Experiment code
+- Spacemacs
+
+### Languages
+- LaTeX
+- Python
+- Lisp
+- Mathematica/Wolfram
+- JS
 <!--
 **rommeswinkel/rommeswinkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
